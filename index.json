@@ -1,0 +1,38 @@
+[
+  {
+    "name": "Hentai Origines",
+    "id": 1000000001,
+    "baseUrl": "https://hentai-origines.com",
+    "lang": "fr",
+    "typeSource": "single",
+    "iconUrl": "https://hentai-origines.com/wp-content/uploads/2026/09/cropped-icon_HO-192x192.png",
+    "isManga": true,
+    "isNsfw": true,
+    "version": "1.0.1",
+    "pkgPath": "manga/src/fr/hentaiorigines.js"
+  },
+  {
+    "name": "HHentai",
+    "id": 1000000002,
+    "baseUrl": "https://hhentai.fr",
+    "lang": "fr",
+    "typeSource": "single",
+    "iconUrl": "https://www.google.com/s2/favicons?sz=128&domain=https://hhentai.fr",
+    "isManga": true,
+    "isNsfw": true,
+    "version": "0.1.3",
+    "pkgPath": "manga/src/fr/hhentai.js"
+  },
+  {
+    "name": "SushiScan",
+    "id": 1000000003,
+    "baseUrl": "https://sushiscan.fr",
+    "lang": "fr",
+    "typeSource": "single",
+    "iconUrl": "https://sushiscan.fr/wp-content/uploads/2023/12/bleach.png",
+    "isManga": true,
+    "isNsfw": true,
+    "version": "1.0.0",
+    "pkgPath": "manga/src/fr/sushiscan.js"
+  }
+]
