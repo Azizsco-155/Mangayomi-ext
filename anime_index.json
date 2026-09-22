@@ -1,0 +1,41 @@
+[
+  {
+    "name": "FRAnime",
+    "id": 2000000001,
+    "baseUrl": "https://franime.fr",
+    "lang": "fr",
+    "typeSource": "single",
+    "iconUrl": "https://franime.fr/logo.png",
+    "isManga": false,
+    "isNsfw": false,
+    "version": "1.0.2",
+    "pkgPath": "anime/src/fr/franime.js",
+    "sourceCodeUrl": "https://github.com/Azizsco-155/Mangayomi-ext/blob/main/anime/src/fr/franime.js"
+  },
+  {
+    "name": "Voir-Anime",
+    "id": 2000000002,
+    "baseUrl": "https://voir-anime.to",
+    "lang": "fr",
+    "typeSource": "single",
+    "iconUrl": "https://voir-anime.to/wp-content/uploads/2019/12/vato.png",
+    "isManga": false,
+    "isNsfw": false,
+    "version": "1.0.1",
+    "pkgPath": "anime/src/fr/voiranime.js",
+    "sourceCodeUrl": "https://github.com/Azizsco-155/Mangayomi-ext/blob/main/anime/src/fr/voiranime.js"
+  },
+  {
+    "name": "WaveAnime",
+    "id": 2000000003,
+    "baseUrl": "https://waveanime.fr",
+    "lang": "fr",
+    "typeSource": "single",
+    "iconUrl": "https://waveanime.fr/favicon.ico",
+    "isManga": false,
+    "isNsfw": false,
+    "version": "1.0.2",
+    "pkgPath": "anime/src/fr/waveanime.js",
+    "sourceCodeUrl": "https://github.com/Azizsco-155/Mangayomi-ext/blob/main/anime/src/fr/waveanime.js"
+  }
+]
